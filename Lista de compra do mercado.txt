@@ -1,0 +1,8 @@
+1-pão
+2-carne
+3-açucar
+4-feijão
+5-arroz
+6-maçã
+7-macarrão
+8-batata
